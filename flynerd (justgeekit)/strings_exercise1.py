@@ -1,7 +1,7 @@
-"""To variable "sentence" save sentence "Python is simple and useful.
+"""To variable "sentence" save sentence "Python is simple and useful".
 1) Count the characters
 2) Display word "simple"
-3)Display character with an index (7,12,-4,25)"""
+3) Display character with an index (7,12,-4,25)"""
 
 
 

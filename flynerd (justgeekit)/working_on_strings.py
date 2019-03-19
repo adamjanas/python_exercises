@@ -19,8 +19,8 @@ print(a.isspace())      #print true if ( only empty sings in string)
 print(a.istitle())      #print true if string is a title
 print(a.isupper())      #print true if the string includes one big letter
 print(a.replace("p", "l"))
-print(a.endswith("a"))  #print only  strings by verification which end with letter "a"
-print(a.startswith("a")) # --/-- which end with letter "a"
+print(a.endswith("a"))  #print true  if strings end with "a" letter
+print(a.startswith("a")) # --/-- which begins with letter "a"
 print(a.strip("a"))    #it deletes letter "a" on the left and right side [we can use lstrip to left and rstrip to right side]
 
 
