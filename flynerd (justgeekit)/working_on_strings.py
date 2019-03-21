@@ -12,7 +12,7 @@ print(a.find("k"))    # or rfind it works by the end of strings of characters
 print(a.replace("","-"))
 print("*".join(a))
 print(a.isalpha())      #print true if string of characters is a letter
-print(a.isalnum())      # print true if  is (aplhanumeric sings)
+print(a.isalnum())      # print true if (aplhanumeric sings)
 print(a.isdigit())      # print true if (all digit)
 print(a.islower())      #print true if (all low letters)
 print(a.isspace())      #print true if ( only empty sings in string)
@@ -22,6 +22,6 @@ print(a.replace("p", "l"))
 print(a.endswith("a"))  #print true  if strings end with "a" letter
 print(a.startswith("a")) # --/-- which begins with letter "a"
 print(a.strip("a"))    #it deletes letter "a" on the left and right side [we can use lstrip to left and rstrip to right side]
-
+print(r"without functions like \n \t")
 
 
