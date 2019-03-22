@@ -15,12 +15,14 @@ print("Your BMI index is:\t", bmi)
 if bmi <= 18.5:
     print("it is underweight")
 elif 18.5 < bmi <= 24:
-    print("It is a slight overweight")
+    print("Normal weight")
 elif 24 < bmi <= 26.5:
-    print(" Overweight")
+    print("Slight overweight")
 elif 26.5 < bmi <= 30:
-    print("Obesity I level")
+    print("Overweight")
 elif 30 < bmi < 35:
+    print("Obesity I level")
+elif 35 < bmi < 40:
     print("Obesity II level")
 else:
     print("Obesity III level")
