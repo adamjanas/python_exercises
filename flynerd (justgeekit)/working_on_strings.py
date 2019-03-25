@@ -23,5 +23,5 @@ print(a.endswith("a"))  #print true  if strings end with "a" letter
 print(a.startswith("a")) # --/-- which begins with letter "a"
 print(a.strip("a"))    #it deletes letter "a" on the left and right side [we can use lstrip to left and rstrip to right side]
 print(r"without functions like \n \t")
-
+print(a.split(","))    #it divides string in base of (,), split() divides every word in string
 
