@@ -1,6 +1,6 @@
 # Fibonacci row 1 1 2 3 5 8 13 21...
 def fib_gen():
-    times = int(input("how many fibonacci number would you like to generate\n"))
+    times = int(input("how many fibonacci number would you like to generate\t"))
     i = 1
     if times == 0:
         fib = []
@@ -15,7 +15,7 @@ def fib_gen():
             i += 1
     print(fib)
 
-def fib_gen():
+def fib_gen1():
     times = int(input('xd'))
     a, b = 0, 1
     while times:
@@ -23,6 +23,5 @@ def fib_gen():
 
         times -= 1
         print(a)
+fib_gen1()
 
-
-fib_gen()
