@@ -17,12 +17,12 @@ print([a/b for a in x for b in y])
 
 print([a+b for a in x for b in y])
 '''
-numbers = [1, 2, 3 , 4, 5]
+numbers = [1, 2, 3, 4, 5]
 a = []
 for x in numbers:
     if x % 2 == 1:
         a.append(x*2)
 print(a)
 
-a = [x*2 for x in numbers if x % 2 == 1]
+a = [x*2 for x in numbers if x % 2 == 1]    #alternative version by list_comprehensions
 print(a)

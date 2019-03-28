@@ -6,3 +6,5 @@ for x in a:
         if x == y:
             c.append(x)
 print(c)
+d = ([x for x in a if x in a and x in b])       #alternative version by list_comprehensions
+print(d)

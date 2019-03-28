@@ -26,7 +26,7 @@ def pass_word(a):
     special = string.punctuation
     number = string.digits
     all = upper + lower + special + number
-    password = random.sample(all, a)
+    password = random.sample(all, a)            # Prints list of random items of given length
     b = ''.join(password)
 
     print(b)
