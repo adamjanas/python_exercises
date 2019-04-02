@@ -12,3 +12,4 @@ print(names1, names2)
 x = [2, 3, 3, 4]
 y = set(x)
 print(y)
+
