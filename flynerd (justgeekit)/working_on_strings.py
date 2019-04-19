@@ -25,3 +25,4 @@ print(a.strip("a"))    #it deletes letter "a" on the left and right side [we can
 print(r"without functions like \n \t")
 print(a.split(","))    #it divides string in base of (,), split() divides every word in string
 print(sorted([1, 6, 2, 9, 3, 5, 2, 7], reverse = True))
+print(round(12.3141592326, 2)) #it rounds places after point
