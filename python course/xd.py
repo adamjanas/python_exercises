@@ -28,3 +28,9 @@ print(haha.name)
 print(haha2.name)
 print(haha2.age)
 print(haha.xddd())
+
+
+
+import os
+
+os.rename("objected_oriented_programming1.py", "object_oriented_programming1.py")
