@@ -34,7 +34,7 @@ class QuadraticFunction():
 
         if delta < 0:
             return float("nan"), float("nan")
-        return(-self.b - math.sqrt(delta))/(2*self.a), (-self.b + math.sqrt(delta))/(2*self.a),
+        return(-self.b - math.sqrt(delta))/(2*self.a), (-self.b + math.sqrt(delta))/(2*self.a)
 
 def main():
     f1 = QuadraticFunction(2, 3, 1)        #creating object
