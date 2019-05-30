@@ -1,6 +1,6 @@
 class Human:
     name = ""
-    surname= ""
+    surname = ""
 
     def __init__(self):
         print("start")
