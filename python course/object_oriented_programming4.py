@@ -5,6 +5,9 @@ class human:
     def __init__(self, name, age):
         self.name = name
         self._age = age
+    #returns string when we print object
+    def __str__(self):
+        return self.name
 
     def set_age(self, age):
         self.__age = age
@@ -22,3 +25,4 @@ class human:
 
 man = human("john", 24)
 man.get_age()
+print(man)
