@@ -1,5 +1,6 @@
-import urllib
-
-print(dir(urllib))    #funtions contain in urllib
+import sys
 
 
+
+
+print(sys.argv)
