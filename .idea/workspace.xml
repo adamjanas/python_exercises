@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f9823488-3cb4-4bb5-b854-0481690a8937" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flynerd (justgeekit)/working_on_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/flynerd (justgeekit)/working_on_strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python course/modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/python course/modules.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +14,7 @@
     <session id="1962982094">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="43" />
+          <entry key="project.closed" value="44" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="2" />
@@ -25,7 +23,7 @@
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.2" value="3" />
-          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.25" value="2" />
           <entry key="project.open.time.27" value="2" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.29" value="1" />
@@ -47,13 +45,13 @@
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.78" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="48" />
+          <entry key="project.opened" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="p" value="1" />
-          <entry key="py" value="122" />
+          <entry key="py" value="123" />
           <entry key="reading_and_writing_files" value="1" />
           <entry key="text" value="2" />
           <entry key="txt" value="5" />
@@ -63,14 +61,14 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="123" />
+          <entry key="Python" value="124" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="76" />
           <entry key="p" value="1" />
-          <entry key="py" value="23929" />
+          <entry key="py" value="24385" />
           <entry key="reading_and_writing_files" value="627" />
           <entry key="text" value="117" />
           <entry key="txt" value="168" />
@@ -79,7 +77,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="286" />
-          <entry key="Python" value="24632" />
+          <entry key="Python" value="25088" />
         </counts>
       </usages-collector>
     </session>
@@ -92,7 +90,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/prompting_and_passing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="204">
               <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
@@ -101,11 +99,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/reading_files.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state>
+              <caret column="20" selection-start-column="20" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -113,17 +120,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/reading_and_writing_files.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+            <state relative-caret-position="527">
+              <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/copy_files.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="425">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
               </folding>
@@ -160,7 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/flynerd (justgeekit)/strings_exercise1.py" />
         <option value="$PROJECT_DIR$/flynerd (justgeekit)/conditional_instructions.py" />
         <option value="$PROJECT_DIR$/flynerd (justgeekit)/conditional_instrucions_exercise1.py" />
         <option value="$PROJECT_DIR$/flynerd (justgeekit)/sorting_numbers.py" />
@@ -211,6 +217,7 @@
         <option value="$PROJECT_DIR$/learn_python_the_hard_way/copy_files.py" />
         <option value="$PROJECT_DIR$/learn_python_the_hard_way/test.txt" />
         <option value="$PROJECT_DIR$/learn_python_the_hard_way/test1.txt" />
+        <option value="$PROJECT_DIR$/learn_python_the_hard_way/functions.py" />
       </list>
     </option>
   </component>
@@ -225,6 +232,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -256,11 +264,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/learn_python_the_hard_way/copy_files.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/learn_python_the_hard_way/functions.py" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
@@ -275,7 +282,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.copy_files">
+  <component name="RunManager" selected="Python.functions">
     <configuration name="Dice_rollling_simulator" type="PythonConfigurationType" factoryName="Python">
       <module name="repositories python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -898,6 +905,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flynerd (justgeekit)/for_loop_exercise3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="functions" type="PythonConfigurationType" factoryName="Python">
+      <module name="repositories python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\os\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn_python_the_hard_way" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_python_the_hard_way/functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1597,6 +1625,7 @@
       <item itemvalue="Python.reading_files" />
       <item itemvalue="Python.reading_and_writing_files" />
       <item itemvalue="Python.copy_files" />
+      <item itemvalue="Python.functions" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -1623,6 +1652,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5476773" visible="true" weight="0.1688988" />
       <window_info id="Structure" order="1" sideWeight="0.45232275" side_tool="true" weight="0.07217262" />
@@ -1635,7 +1665,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295082" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3262295" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3262295" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32459018" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1647,7 +1677,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/games/snake.py" />
     <entry file="file://$PROJECT_DIR$/flynerd (justgeekit)/strings_exercise1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -1823,9 +1852,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <marker date="1559307658017" expanded="true" signature="395:519" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1888,15 +1914,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/xddd">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/test.text">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/xddd" />
+    <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/test.text" />
+    <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/reading_and_writing_files" />
     <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/prompting_and_passing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="204">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
@@ -1904,19 +1927,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/reading_and_writing_files">
+    <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/reading_files.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-end-line="21" />
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/reading_files.py">
+    <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/reading_and_writing_files.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="527">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/copy_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/test1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/test.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -1925,23 +1961,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/reading_and_writing_files.py">
+    <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/test1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/copy_files.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
