@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9823488-3cb4-4bb5-b854-0481690a8937" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn_python_the_hard_way/ex23.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn_python_the_hard_way/ex23.py" afterDir="false" />
-    </list>
+    <list default="true" id="f9823488-3cb4-4bb5-b854-0481690a8937" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +37,7 @@
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.45" value="2" />
+          <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.54" value="1" />
           <entry key="project.open.time.58" value="1" />
@@ -47,13 +45,13 @@
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.78" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="52" />
+          <entry key="project.opened" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="p" value="1" />
-          <entry key="py" value="136" />
+          <entry key="py" value="137" />
           <entry key="reading_and_writing_files" value="1" />
           <entry key="text" value="2" />
           <entry key="txt" value="8" />
@@ -63,14 +61,14 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Python" value="137" />
+          <entry key="Python" value="138" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="76" />
           <entry key="p" value="1" />
-          <entry key="py" value="28726" />
+          <entry key="py" value="29690" />
           <entry key="reading_and_writing_files" value="627" />
           <entry key="text" value="117" />
           <entry key="txt" value="265" />
@@ -79,7 +77,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="383" />
-          <entry key="Python" value="29429" />
+          <entry key="Python" value="30393" />
         </counts>
       </usages-collector>
     </session>
@@ -89,15 +87,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/functions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/functions_and_files.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -128,23 +117,42 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/ex23.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="426">
+              <caret line="31" column="57" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
               <folding>
-                <marker date="1560457926541" expanded="true" signature="89:94" ph="..." />
-                <marker date="1560457926541" expanded="true" signature="277:282" ph="..." />
+                <marker date="1560545583767" expanded="true" signature="89:94" ph="..." />
+                <marker date="1560545583767" expanded="true" signature="277:282" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/ex24.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="25" column="80" selection-start-line="25" selection-start-column="80" selection-end-line="25" selection-end-column="80" />
+              <folding>
+                <marker date="1560521508365" expanded="true" signature="417:701" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/ex24.py">
+        <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/ex25.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="25" column="80" selection-start-line="25" selection-start-column="80" selection-end-line="25" selection-end-column="80" />
+            <state relative-caret-position="306">
+              <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
               <folding>
-                <marker date="1560521508365" expanded="true" signature="417:701" ph="..." />
+                <marker date="1560549156750" expanded="true" signature="23:28" ph="..." />
+                <marker date="1560549156750" expanded="true" signature="143:148" ph="..." />
+                <marker date="1560549156750" expanded="true" signature="143:173" ph="..." />
+                <marker date="1560549156750" expanded="true" signature="222:227" ph="..." />
+                <marker date="1560549156750" expanded="true" signature="317:322" ph="..." />
+                <marker date="1560549156750" expanded="true" signature="397:462" ph="..." />
+                <marker date="1560549156750" expanded="true" signature="560:565" ph="..." />
+                <marker date="1560549156750" expanded="true" signature="744:749" ph="..." />
               </folding>
             </state>
           </provider>
@@ -213,8 +221,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/flynerd (justgeekit)/conditional_instructions_exercise2.py" />
-        <option value="$PROJECT_DIR$/flynerd (justgeekit)/conditional_instructions_exercise3.py" />
         <option value="$PROJECT_DIR$/flynerd (justgeekit)/conditional_instructions_exercise4.py" />
         <option value="$PROJECT_DIR$/flynerd (justgeekit)/conditional_instructions_exercise5.py" />
         <option value="$PROJECT_DIR$/flynerd (justgeekit)/for_loop_exercise2.py" />
@@ -262,8 +268,10 @@
         <option value="$PROJECT_DIR$/learn_python_the_hard_way/functions_and_files.py" />
         <option value="$PROJECT_DIR$/learn_python_the_hard_way/test1.txt" />
         <option value="$PROJECT_DIR$/learn_python_the_hard_way/return.py" />
-        <option value="$PROJECT_DIR$/learn_python_the_hard_way/ex23.py" />
         <option value="$PROJECT_DIR$/learn_python_the_hard_way/ex24.py" />
+        <option value="$PROJECT_DIR$/learn_python_the_hard_way/ex23.py" />
+        <option value="$PROJECT_DIR$/flynerd (justgeekit)/ex25.py" />
+        <option value="$PROJECT_DIR$/learn_python_the_hard_way/ex25.py" />
       </list>
     </option>
   </component>
@@ -313,8 +321,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/learn_python_the_hard_way/ex24.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/learn_python_the_hard_way/ex25.py" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\os\Desktop\repositories python\learn_python_the_hard_way" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -328,7 +341,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex24">
+  <component name="RunManager" selected="Python.ex25">
     <configuration name="Dice_rollling_simulator" type="PythonConfigurationType" factoryName="Python">
       <module name="repositories python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -804,6 +817,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_python_the_hard_way/ex24.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex25" type="PythonConfigurationType" factoryName="Python">
+      <module name="repositories python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\os\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn_python_the_hard_way" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_python_the_hard_way/ex25.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1760,6 +1794,7 @@
       <item itemvalue="Python.return" />
       <item itemvalue="Python.ex23.py" />
       <item itemvalue="Python.ex24" />
+      <item itemvalue="Python.ex25" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -1788,7 +1823,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5476773" visible="true" weight="0.1108631" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5476773" visible="true" weight="0.1108631" />
       <window_info id="Structure" order="1" sideWeight="0.45232275" side_tool="true" weight="0.07217262" />
       <window_info id="Favorites" order="2" sideWeight="0.45232275" side_tool="true" weight="0.20386904" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1799,7 +1834,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295082" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3262295" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3262295" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50074404" side_tool="true" weight="0.2885246" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32459018" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1830,13 +1865,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/solutions (practicepython)/list_overlap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solutions (practicepython)/list_overlap_comprehensions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -2046,9 +2074,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -2060,6 +2092,17 @@
             <marker date="1560263536856" expanded="true" signature="66:71" ph="..." />
             <marker date="1560263536856" expanded="true" signature="130:135" ph="..." />
             <marker date="1560263536856" expanded="true" signature="219:224" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/return.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <marker date="1560268232236" expanded="true" signature="14:19" ph="..." />
+            <marker date="1560268232236" expanded="true" signature="228:229" ph="..." />
           </folding>
         </state>
       </provider>
@@ -2104,39 +2147,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/ex23.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="426">
+          <caret line="31" column="57" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
           <folding>
-            <marker date="1560457926541" expanded="true" signature="89:94" ph="..." />
-            <marker date="1560457926541" expanded="true" signature="277:282" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/return.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <marker date="1560268232236" expanded="true" signature="14:19" ph="..." />
-            <marker date="1560268232236" expanded="true" signature="228:229" ph="..." />
+            <marker date="1560545583767" expanded="true" signature="89:94" ph="..." />
+            <marker date="1560545583767" expanded="true" signature="277:282" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/ex24.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
+        <state relative-caret-position="121">
           <caret line="25" column="80" selection-start-line="25" selection-start-column="80" selection-end-line="25" selection-end-column="80" />
           <folding>
             <marker date="1560521508365" expanded="true" signature="417:701" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/ex25.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+          <folding>
+            <marker date="1560549156750" expanded="true" signature="23:28" ph="..." />
+            <marker date="1560549156750" expanded="true" signature="143:148" ph="..." />
+            <marker date="1560549156750" expanded="true" signature="143:173" ph="..." />
+            <marker date="1560549156750" expanded="true" signature="222:227" ph="..." />
+            <marker date="1560549156750" expanded="true" signature="317:322" ph="..." />
+            <marker date="1560549156750" expanded="true" signature="397:462" ph="..." />
+            <marker date="1560549156750" expanded="true" signature="560:565" ph="..." />
+            <marker date="1560549156750" expanded="true" signature="744:749" ph="..." />
           </folding>
         </state>
       </provider>
