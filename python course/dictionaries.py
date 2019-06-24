@@ -8,6 +8,8 @@ print(len(student))
 print(student.keys())     #print the keys of dictionary
 print(student.values())    #print values
 print(student.items())      # The items are all parts: (key - value) etc.
+del student['age']
+print(student)
 for key, value in student.items():
     print(key, value)
 
