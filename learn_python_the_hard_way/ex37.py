@@ -22,3 +22,4 @@ while var > 0:
       continue
    print('Current variable value :', var)
 print("Good bye!")
+#del in dictionary
