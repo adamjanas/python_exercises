@@ -1,4 +1,4 @@
-''''#key symbols
+#key symbols
 #with-as statement
 with open("test.txt") as ifile:
 ....print(infile.read())      #with-as statement allows us to not closing the file
@@ -50,7 +50,7 @@ def divide(x, y):
     else:
         print(f"result is {result}")
     finally:
-        print("Excecutting finally closed")'''
+        print("Excecutting finally closed")
 # lamda ~ create a  short anonymous function
 f = lambda arg1, arg2: arg1* arg2
 print(f(3,4))
@@ -64,3 +64,44 @@ mydoubler = myfunc(2)
 
 print(mydoubler(11))
 
+#pass ~ null operation
+for letter in "python":
+  if letter == "h":
+    pass
+    print("this is pass block")
+  print(f"current letter : {letter}")
+#raise (exception)
+
+class CoffeeCup:
+  def __init__(self, temperature):
+    self.temperature = temperature
+  def drink_coffe(self):
+    if self.temperature > 85:
+      #print("Coffee is to hot")
+      raise Exception("Coffee too hot")
+    if self.temperature < 65:
+      #print("Coffee is to hot")
+      raise ValueError("Coffee too cold")
+    else:
+        print("good temperature")
+
+
+
+cup = CoffeeCup(10)
+cup.drink_coffe()
+#yield
+"""To understand what yield does, you must understand what generators are, and before you can understand generators you
+must understand iterables"""
+#iteration ~ reading item one by one.
+mylist = [1,2,3]
+for i in mylist:
+  print(i)
+#Generators
+generator = (x * x for x in range(3))
+for i in generator:
+  print(i)
+#yield ~ (return in generators)
+def creategenerator():
+  mylist = range(3)
+  for i in mylist:
+    yield i*i

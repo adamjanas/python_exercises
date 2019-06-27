@@ -29,6 +29,7 @@ print(round(12.3141592326, 2)) #it rounds places after point
 b = 3.14159
 print(format(b, '.50f'))        #it displays amount of numbers after point
 print("%.50f" % b)              #the same (alternative)
-my_name = "example"
-number = 10
-print("thats %s" % my_name, "number is %d" % number)
+print("python\a")       #bell
+print("python\b")       #backspace
+print("python\r3")       #carriage return output will be "3"
+
