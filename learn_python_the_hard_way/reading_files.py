@@ -1,6 +1,6 @@
 from sys import argv
 
-script, filename = argv        #filename will argument which you will write in command-prompt after name of the file
+script, filename = argv        #filename will be argument which you will write in command-prompt after name of the file
 
 txt = open(filename)
 
