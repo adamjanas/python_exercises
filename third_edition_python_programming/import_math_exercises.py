@@ -71,7 +71,42 @@ def sum_of_given_inputs():
     for i in list:
         s = s + i
     print(s)
-sum_of_given_inputs()
+def fibonacci():
+    times = int(input("How many fibonacci's numbers would you like to generate:\t"))
+    i = 1
+
+    if times == 0:
+        fib = []
+    elif times == 1:
+        fib = [1]
+    elif times == 2:
+        fib = [1, 1]
+    elif times > 2:
+        fib = [1, 1]
+        while i < (times - 1):
+            fib.append(fib[i] + fib[i-1])
+            i += 1
+        print(fib)
 
 
+def fib_alternative():
+    times = int(input("times:"))
+
+    a, b = 0, 1
+
+    while times:
+        a,vb = b,va+b
+        times -= 1
+        print(a)
+
+def average():
+    how = int(input("for how many numbers would you like to count average?:\t"))
+    list = []
+    z = 0
+    for i in range(how):
+        number = float(input("Enter number :"))
+        list.append(number)
+    for n in list:
+        z = z + n
+    print(f"Average of given numbers is {z/how}")
 

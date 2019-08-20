@@ -1,9 +1,10 @@
 class Person:
+    #initalization of an instance
     def __init__(self, name, surname, age):
         self.name = name
         self.surname = surname
         self.age = age
-
+    #methods
     def introduce_yourself(self):
         print(f"Hello I am {self.name}, {self.surname} and I have {self.age} yo")
 
@@ -13,30 +14,27 @@ class Person:
 
 
 def main():
-    # two objects of Person
-    Adam = Person("Adam", "hehehe", "21")
-    Janusz = Person("Janusz", "hyhyhyhy", "55")
+    #two objects of Person
+    adam = Person("Adam", "hehehe", "21")
+    janusz = Person("Janusz", "hyhyhyhy", "55")
 
     #calling the methods of introduce_yourself
-    Adam.introduce_yourself()
-    Janusz.introduce_yourself()
+    adam.introduce_yourself()
+    janusz.introduce_yourself()
 
-    Adam.birthday()
-    Janusz.birthday()
+    adam.birthday()
+    janusz.birthday()
 
 
     #modification of fields
-    Adam.surname = "hehehehe"
-    Janusz.surname = "hehehehe"
+    adam.surname = "hehehehe"
+    janusz.surname = "hehehehe"
 
 
-    Adam.introduce_yourself()
-    Janusz.introduce_yourself()
+    adam.introduce_yourself()
+    janusz.introduce_yourself()
 
 
 main()
-
-
-
 
 
