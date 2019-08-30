@@ -25,3 +25,20 @@ def fib_gen1():
         print(a)
 fib_gen1()
 
+def fib():
+    times = int(input("how many fib numbers would you like to generate"))
+    i = 1
+    if times ==0:
+        fib = []
+    elif times == 1:
+        fib = [1]
+    elif times == 2:
+        fib = [1,1]
+    elif times > 2:
+        fib = [1,1]
+        while i < (times -1):
+            fib.append(fib[i] + fib[i-1])
+            i +=1
+    print(fib)
+
+fib()
