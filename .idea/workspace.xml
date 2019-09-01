@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f9823488-3cb4-4bb5-b854-0481690a8937" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions (practicepython)/fibonacci's_row.py" beforeDir="false" afterPath="$PROJECT_DIR$/solutions (practicepython)/fibonacci's_row.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third_edition_python_programming/triangle.pyw" beforeDir="false" afterPath="$PROJECT_DIR$/third_edition_python_programming/triangle.pyw" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +15,7 @@
     <session id="1962982094">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="91" />
+          <entry key="project.closed" value="94" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="2" />
@@ -32,7 +32,7 @@
           <entry key="project.open.time.28" value="2" />
           <entry key="project.open.time.29" value="2" />
           <entry key="project.open.time.3" value="3" />
-          <entry key="project.open.time.30" value="2" />
+          <entry key="project.open.time.30" value="3" />
           <entry key="project.open.time.31" value="7" />
           <entry key="project.open.time.32" value="4" />
           <entry key="project.open.time.33" value="4" />
@@ -41,12 +41,12 @@
           <entry key="project.open.time.36" value="3" />
           <entry key="project.open.time.37" value="5" />
           <entry key="project.open.time.38" value="1" />
-          <entry key="project.open.time.39" value="2" />
+          <entry key="project.open.time.39" value="3" />
           <entry key="project.open.time.40" value="3" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.42" value="2" />
           <entry key="project.open.time.43" value="2" />
-          <entry key="project.open.time.45" value="3" />
+          <entry key="project.open.time.45" value="4" />
           <entry key="project.open.time.46" value="1" />
           <entry key="project.open.time.47" value="1" />
           <entry key="project.open.time.48" value="1" />
@@ -60,14 +60,14 @@
           <entry key="project.open.time.70" value="1" />
           <entry key="project.open.time.78" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="98" />
+          <entry key="project.opened" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="p" value="1" />
-          <entry key="py" value="206" />
-          <entry key="pyw" value="2" />
+          <entry key="py" value="207" />
+          <entry key="pyw" value="3" />
           <entry key="reading_and_writing_files" value="1" />
           <entry key="text" value="2" />
           <entry key="txt" value="11" />
@@ -77,15 +77,15 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="15" />
-          <entry key="Python" value="209" />
+          <entry key="Python" value="211" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="76" />
           <entry key="p" value="1" />
-          <entry key="py" value="55144" />
-          <entry key="pyw" value="712" />
+          <entry key="py" value="55370" />
+          <entry key="pyw" value="1760" />
           <entry key="reading_and_writing_files" value="627" />
           <entry key="text" value="117" />
           <entry key="txt" value="265" />
@@ -94,7 +94,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="383" />
-          <entry key="Python" value="56559" />
+          <entry key="Python" value="57833" />
         </counts>
       </usages-collector>
     </session>
@@ -107,8 +107,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/third_edition_python_programming/futval_graph.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="663">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
               <folding>
                 <marker date="1566840786853" expanded="true" signature="36:41" ph="..." />
               </folding>
@@ -116,14 +116,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/third_edition_python_programming/triangle.pyw">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="544">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
               <folding>
-                <marker date="1567156511309" expanded="true" signature="35:40" ph="..." />
+                <marker date="1567343934694" expanded="true" signature="35:40" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/third_edition_python_programming/clickntype.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <marker date="1567348713915" expanded="true" signature="36:41" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/third_edition_python_programming/convert_gui.pyw">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -132,7 +153,7 @@
         <entry file="file://$PROJECT_DIR$/third_edition_python_programming/click.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
               <folding>
                 <marker date="1567153086219" expanded="true" signature="35:40" ph="..." />
               </folding>
@@ -187,8 +208,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/python course/object_oriented_programming4.py" />
-        <option value="$PROJECT_DIR$/python course/xd.py" />
         <option value="$PROJECT_DIR$/python course/class_example.py" />
         <option value="$PROJECT_DIR$/python course/test.py" />
         <option value="$PROJECT_DIR$/python course/class_inheritance1.py" />
@@ -238,12 +257,14 @@
         <option value="$PROJECT_DIR$/third_edition_python_programming/futval_graph.py" />
         <option value="$PROJECT_DIR$/third_edition_python_programming/click.py" />
         <option value="$PROJECT_DIR$/third_edition_python_programming/triangle.pyw" />
+        <option value="$PROJECT_DIR$/third_edition_python_programming/clickntype.py" />
+        <option value="$PROJECT_DIR$/third_edition_python_programming/convert_gui.pyw" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="719" />
-    <option name="width" value="646" />
+    <option name="x" value="124" />
+    <option name="width" value="1115" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -297,7 +318,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/third_edition_python_programming/click.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/third_edition_python_programming/clickntype.py" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
@@ -317,7 +338,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.click">
+  <component name="RunManager" selected="Python.clickntype">
     <configuration name="Dice_rollling_simulator" type="PythonConfigurationType" factoryName="Python">
       <module name="repositories python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -520,6 +541,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/third_edition_python_programming/click.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clickntype" type="PythonConfigurationType" factoryName="Python">
+      <module name="repositories python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\os\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/third_edition_python_programming" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/third_edition_python_programming/clickntype.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -2255,6 +2297,7 @@
       <item itemvalue="Python.import_math_exercises" />
       <item itemvalue="Python.graphics_programming" />
       <item itemvalue="Python.click" />
+      <item itemvalue="Python.clickntype" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -2280,9 +2323,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="719" y="0" width="646" height="735" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5476773" visible="true" weight="0.20163691" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5476773" weight="0.32894737" />
       <window_info id="Structure" order="1" sideWeight="0.45232275" side_tool="true" weight="0.07217262" />
       <window_info id="Favorites" order="2" sideWeight="0.45232275" side_tool="true" weight="0.20386904" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -2293,7 +2337,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32786885" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32828283" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.34754097" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.34754097" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50074404" side_tool="true" weight="0.2885246" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3147541" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -2324,20 +2368,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/ex25.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/functions_and_files.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/ex24.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="329">
@@ -2523,9 +2553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
           <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-          <folding>
-            <marker date="1566559753053" expanded="true" signature="605:610" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2547,30 +2574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/third_edition_python_programming/graphics.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python course/exceptions.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python course/exceptions1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/reading_and_writing_files.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -2596,13 +2599,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/prompting_and_passing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/functions.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -2639,20 +2636,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/third_edition_python_programming/click.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding>
-            <marker date="1567153086219" expanded="true" signature="35:40" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/third_edition_python_programming/futval_graph.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="663">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
           <folding>
             <marker date="1566840786853" expanded="true" signature="36:41" ph="..." />
           </folding>
@@ -2661,11 +2648,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/third_edition_python_programming/triangle.pyw">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="544">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
           <folding>
-            <marker date="1567156511309" expanded="true" signature="35:40" ph="..." />
+            <marker date="1567343934694" expanded="true" signature="35:40" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third_edition_python_programming/clickntype.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <marker date="1567348713915" expanded="true" signature="36:41" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third_edition_python_programming/click.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding>
+            <marker date="1567153086219" expanded="true" signature="35:40" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third_edition_python_programming/graphics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python course/exceptions.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python course/exceptions1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_python_the_hard_way/reading_and_writing_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third_edition_python_programming/convert_gui.pyw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
         </state>
       </provider>
     </entry>
